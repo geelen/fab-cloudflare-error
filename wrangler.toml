@@ -1,0 +1,6 @@
+name = "nextjs9-fab-cf-workers"
+type = "webpack"
+zone_id = ""
+private = false
+account_id = "cd3d2f25fb7dfdd4e8be7f187b2cbad1"
+route = ""

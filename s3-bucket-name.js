@@ -1,0 +1,1 @@
+module.exports = "fab-assets-b3b8d0a6-nextjs9-fab-cf-workers"
